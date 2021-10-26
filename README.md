@@ -1,5 +1,6 @@
 # Starbucks project README
-## Project overview
+
+## Project overview
 
 This project is about understanding how offers sent by Starbucks to customers impact their behaviour. We are particularly interested in understanding how different offer types influence people depending on their demographic. 
 

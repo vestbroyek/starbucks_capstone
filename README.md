@@ -7,13 +7,16 @@ This project is about understanding how offers sent by Starbucks to customers im
 ## Data
 We have been provided with three main datasets.
 
-- Portfolio
+- *Portfolio*
+
 This data contains information about different offer types, how much spend is required to complete the offer, how long it is valid for, how much (if any) the reward is, and which channel it was sent to the customer through.
 
-- Profile
+- *Profile*
+
 Demographic data, incuding customers' age, when they became a member, gender, and income.
 
-- Transcript
+- *Transcript*
+
 Records of events, such as offers received, viewed, and completed as well as transactions for each person and the time at which the event occurred.
 
 ## Problem statement
